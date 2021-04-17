@@ -8,3 +8,9 @@
 #About{
   text-align: center;
 }
+#service{
+  background-image: url(/images/b.g2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
