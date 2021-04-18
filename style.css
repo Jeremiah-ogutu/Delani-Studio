@@ -25,4 +25,13 @@
   background-image:url(/images/b.g.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
+  color: white;
+  background-size: cover;
+  -webkit-background-origin:cover ;
+}
+.form{
+  background: rgba(0,0,0,0.5);
+}
+#feedback{
+  background: rgba(0,0,0,0.5);
 }
