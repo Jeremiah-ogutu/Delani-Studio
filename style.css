@@ -7,6 +7,7 @@
 }
 #About{
   text-align: center;
+  font-style: italic;
 }
 #service{
   background-image: url(/images/b.g2.jpg);
@@ -27,7 +28,6 @@
   background-repeat: no-repeat;
   color: white;
   background-size: cover;
-  -webkit-background-origin:cover ;
 }
 .form{
   background: rgba(0,0,0,0.5);
