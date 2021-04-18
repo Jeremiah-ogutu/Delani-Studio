@@ -21,3 +21,8 @@
   height: 300px;
   width: 500px;
 }
+#contact{
+  background-image:url(/images/b.g.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+}
