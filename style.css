@@ -17,3 +17,7 @@
 .p1-showing{
   display: none;
 }
+#feedback{
+  height: 300px;
+  width: 500px;
+}
