@@ -29,6 +29,7 @@
   color: white;
   background-size: cover;
   text-align: center;
+
 }
 .form{
   background: rgba(0,0,0,0.5);
@@ -44,5 +45,14 @@ footer{
 }
 #p2-graph{
   display: none;
+}
+#click{
+  margin-top: 600px;
+}
+#start{
+  margin-top: 500;
+}
+#start1{
+  margin: 500;
 }
 
