@@ -21,3 +21,8 @@ $(document).ready(function(){
     });
 });
 });
+
+$("#form").submit (function(event){
+  event.preventDefault();
+    alert("Thank you for your feedback ")
+});

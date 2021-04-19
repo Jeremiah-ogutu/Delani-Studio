@@ -1,5 +1,5 @@
 #home{
-  background-image: url(/images/b.g1.jpg);
+  background-image: url(images/b.g1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   text-align: center;
@@ -10,7 +10,7 @@
   font-style: italic;
 }
 #service{
-  background-image: url(/images/b.g2.jpg);
+  background-image: url(images/b.g2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   color: white;
@@ -23,7 +23,7 @@
   width: 500px;
 }
 #contact{
-  background-image:url(/images/b.g.jpg) ;
+  background-image:url(images/b.g.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
   color: white;
@@ -45,3 +45,4 @@ footer{
 #p2-graph{
   display: none;
 }
+
