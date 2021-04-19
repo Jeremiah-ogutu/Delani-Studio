@@ -15,6 +15,6 @@ boostrap
 jquery
 javascript
 ### Live site
-
+https://jeremiah-ogutu.github.io/Delani-Studio/
 ### licence
 this project is under the [MIT] (LINCEcE)
